@@ -1,4 +1,4 @@
-package c.javapackage.bjenum;
+package c.javapackage.basic.bjenum;
 
 public enum OverTimeValues2 {
     THREE_HOUR2(18000),

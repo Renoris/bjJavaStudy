@@ -1,4 +1,4 @@
-package c.javapackage;
+package c.javapackage.basic;
 public class bjtest2 {
     public void test1(bjitem titem1){
         String testing=titem1.getItem1();

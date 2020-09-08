@@ -1,4 +1,4 @@
-package c.javapackage.bjString;
+package c.javapackage.basicapi.bjString;
 
 public class bjStringMain {
     public static void main(String [] args){

@@ -1,4 +1,4 @@
-package c.javapackage.bjenum;
+package c.javapackage.basic.bjenum;
 
 public class bjEnumMain {
 

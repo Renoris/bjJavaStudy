@@ -1,4 +1,4 @@
-package c.javapackage;
+package c.javapackage.basic;
 
 import java.util.Objects;
 
