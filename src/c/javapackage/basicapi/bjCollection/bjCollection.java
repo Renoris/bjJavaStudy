@@ -66,16 +66,16 @@ public class bjCollection {
         LinkedList<Object> linkedList1=new LinkedList<>();
         //맨앞에추가
         linkedList1.addFirst(objectlinkedlist);//권장
-        linkedList1.push(objectlinkedlist);
-        linkedList1.offerFirst(objectlinkedlist);
-
+//        linkedList1.push(objectlinkedlist);
+//        linkedList1.offerFirst(objectlinkedlist);
         //맨뒤에추가
         linkedList1.add(objectlinkedlist);//이거나
         linkedList1.addLast(objectlinkedlist);//이거 권장
-        linkedList1.offer(objectlinkedlist);
-        linkedList1.offerLast(objectlinkedlist);
+//        linkedList1.offer(objectlinkedlist);
+//        linkedList1.offerLast(objectlinkedlist);
         //특정위치추가
         linkedList1.add(5,objectlinkedlist);
+
 
         linkedList1.set(5,objectlinkedlist);//위치 에있는거 변경
         linkedList1.getFirst();//맨앞 가져오기
